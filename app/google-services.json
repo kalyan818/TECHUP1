@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80293844211",
+    "firebase_url": "https://tehup-64565.firebaseio.com",
+    "project_id": "tehup-64565",
+    "storage_bucket": "tehup-64565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80293844211:android:942ca44826d19301",
+        "android_client_info": {
+          "package_name": "com.example.kalya.techup1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80293844211-9g8kik9hb6tqf5ej0alcd1m62vhti6bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalya.techup1",
+            "certificate_hash": "b5cf1e32632af325d46ba1c9a274f297e7336e09"
+          }
+        },
+        {
+          "client_id": "80293844211-3vpuc9ohl46b52c5jcfudhae1o59d8rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfA82GCD-hWmJ0vPC_V9BOPsoAhgvaFCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80293844211-3vpuc9ohl46b52c5jcfudhae1o59d8rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
